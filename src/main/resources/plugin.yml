@@ -1,0 +1,4 @@
+name: BotAttackAnalyser
+version: '${project.version}'
+main: tech.itexpress.botattackanalyser.BotAttackAnalyserPaper
+api-version: 1.19
